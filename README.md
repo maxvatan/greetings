@@ -19,5 +19,5 @@ message, err := greetings.Hello("Max")
 Retunrs:
 
 ```
-Hi, Max. Welcome!, <nil>
+Hi, Max. Welcome! <nil>
 ```
